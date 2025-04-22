@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fdfc6117-b0e2-4b18-b9d4-1221bd003d70)# MQTT
+# MQTT
 A repository aimed at reaserching MQTT and similar technologies.
 
 
